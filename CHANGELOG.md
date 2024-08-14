@@ -2,27 +2,28 @@
 
 All notable changes to this project will be documented in this file, in reverse chronological order by release.
 
-## 2.7.0 - TBD
+## 2.7.0 - 2024-08-14
 
-### Added
 
-- Nothing.
+-----
 
-### Changed
+### Release Notes for [2.7.0](https://github.com/nucleos/NucleosMenuBundle/milestone/13)
 
-- Nothing.
+Feature release (minor)
 
-### Deprecated
+### 2.7.0
 
-- Nothing.
+- Total issues resolved: **0**
+- Total pull requests resolved: **2**
+- Total contributors: **2**
 
-### Removed
+#### Enhancement
 
-- Nothing.
+ - [509: Fix symfony deprecation](https://github.com/nucleos/NucleosMenuBundle/pull/509) thanks to @core23
 
-### Fixed
+#### dependency
 
-- Nothing.
+ - [506: Update dependency psalm/plugin-phpunit to ^0.19.0](https://github.com/nucleos/NucleosMenuBundle/pull/506) thanks to @renovate[bot]
 
 ## 2.6.0 - 2023-12-21
 
